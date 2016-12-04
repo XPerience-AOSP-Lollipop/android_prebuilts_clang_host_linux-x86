@@ -14,7 +14,7 @@
 #   limitations under the License.
 
 # Export variables for DragonTC
-export LLVM_PREBUILTS_VERSION := 3.8
+export LLVM_PREBUILTS_VERSION := 3.8-tc
 export LLVM_PREBUILTS_PATH := prebuilts/clang/linux-x86/host/$(TARGET_DRAGONTC_VERSION)/bin
 export LLVM_RTLIB_PATH := $(LLVM_PREBUILTS_PATH)/../lib/clang/3.8/lib/linux/
 export AOSP_LLVM_PREBUILTS_PATH := $(LLVM_PREBUILTS_PATH)/../aosp/bin

@@ -82,7 +82,7 @@
 /* #undef LLVM_ON_WIN32 */
 
 /* Installation prefix directory */
-#define LLVM_PREFIX "/home/TeamMEX/dtc/out/3.8"
+#define LLVM_PREFIX "/home/klozz/dtc/out/3.8"
 
 /* Define if we have the Intel JIT API runtime support library */
 /* #undef LLVM_USE_INTEL_JITEVENTS */
